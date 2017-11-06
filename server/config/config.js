@@ -6,7 +6,7 @@ module.exports = {
     port: 8080
   },
   database: {
-  	host: '127.0.0.1',
+  	host: 'mongo',
     port: 27017,
     db: 'DatabaseName',
     username: '',
